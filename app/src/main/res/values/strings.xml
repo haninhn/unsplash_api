@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">unsplash API</string>
+    <string name="name">Name</string>
+    <string name="username">username</string>
+    <string name="userimage">userImage</string>
+    <string name="image">Image</string>
+    <string name="cration_date">cration date</string>
+</resources>
